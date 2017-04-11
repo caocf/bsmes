@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaoSheng.iml" filepath="$PROJECT_DIR$/BaoSheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-ChinaNetWork/BaoShengMES-ChinaNetWork.iml" filepath="$PROJECT_DIR$/BaoShengMES-ChinaNetWork/BaoShengMES-ChinaNetWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Core/BaoShengMES-Core.iml" filepath="$PROJECT_DIR$/BaoShengMES-Core/BaoShengMES-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Job/BaoShengMES-Job.iml" filepath="$PROJECT_DIR$/BaoShengMES-Job/BaoShengMES-Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Message/BaoShengMES-Message.iml" filepath="$PROJECT_DIR$/BaoShengMES-Message/BaoShengMES-Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Parent/BaoShengMES-Parent.iml" filepath="$PROJECT_DIR$/BaoShengMES-Parent/BaoShengMES-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Static/BaoShengMES-Static.iml" filepath="$PROJECT_DIR$/BaoShengMES-Static/BaoShengMES-Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-WS/BaoShengMES-WS.iml" filepath="$PROJECT_DIR$/BaoShengMES-WS/BaoShengMES-WS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaoShengMES-Web/BaoShengMES-Web.iml" filepath="$PROJECT_DIR$/BaoShengMES-Web/BaoShengMES-Web.iml" />
+    </modules>
+  </component>
+</project>

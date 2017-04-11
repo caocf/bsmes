@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BaoShengMES-Web:war">
+    <output-path>$PROJECT_DIR$/BaoShengMES-Web/target</output-path>
+    <root id="archive" name="bsmes.war">
+      <element id="artifact" artifact-name="BaoShengMES-Web:war exploded" />
+    </root>
+  </artifact>
+</component>

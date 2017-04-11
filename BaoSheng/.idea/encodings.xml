@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-ChinaNetWork" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Static" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-WS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BaoShengMES-Web" charset="UTF-8" />
+  </component>
+</project>

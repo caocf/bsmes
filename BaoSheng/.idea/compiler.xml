@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BaoShengMES-ChinaNetWork" />
+        <module name="BaoShengMES-Core" />
+        <module name="BaoShengMES-Job" />
+        <module name="BaoShengMES-Message" />
+        <module name="BaoShengMES-Static" />
+        <module name="BaoShengMES-Web" />
+        <module name="BaoShengMES-WS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BaoSheng" target="1.5" />
+      <module name="BaoShengMES-ChinaNetWork" target="1.6" />
+      <module name="BaoShengMES-Core" target="1.6" />
+      <module name="BaoShengMES-Job" target="1.6" />
+      <module name="BaoShengMES-Message" target="1.6" />
+      <module name="BaoShengMES-Parent" target="1.5" />
+      <module name="BaoShengMES-Static" target="1.6" />
+      <module name="BaoShengMES-Web" target="1.6" />
+      <module name="BaoShengMES-WS" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

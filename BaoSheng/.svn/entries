@@ -1,0 +1,173 @@
+10
+
+dir
+12102
+http://101.231.47.126:8080/svn/BSMES/trunk/BaoSheng
+http://101.231.47.126:8080/svn/BSMES
+
+
+
+2017-03-30T06:10:39.868907Z
+12090
+wangzw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cb86dc5a-27e7-f949-8907-1b6afd8e026a
+
+.classpath
+file
+
+
+
+
+2017-04-01T01:41:14.498000Z
+667758b3c2fda6f1e35710cdcd0bcfec
+2014-01-15T06:53:29.693235Z
+567
+zhangdp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+310
+
+.project
+file
+
+
+
+
+2017-04-01T01:43:31.348000Z
+928ea4a3731c28d78eb32bb9444255bc
+2014-01-15T06:53:29.693235Z
+567
+zhangdp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+560
+
+.settings
+dir
+
+BaoSheng
+dir
+
+BaoSheng.iml
+file
+0
+
+
+add
+
+BaoShengMES-ChinaNetWork
+dir
+
+BaoShengMES-Core
+dir
+
+BaoShengMES-Email
+dir
+
+BaoShengMES-Job
+dir
+
+BaoShengMES-Message
+dir
+
+BaoShengMES-Parent
+dir
+
+BaoShengMES-Static
+dir
+
+BaoShengMES-WS
+dir
+
+BaoShengMES-Web
+dir
+
+MES-mobile
+dir
+
+pom.xml
+file
+
+
+
+
+2017-04-01T01:45:51.162000Z
+fed57596752c1521373641db42f556b0
+2017-03-15T05:13:03.901379Z
+11975
+yezhiqiang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+931
+

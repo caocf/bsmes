@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BaoShengMES-ChinaNetWork:war">
+    <output-path>$PROJECT_DIR$/BaoShengMES-ChinaNetWork/target</output-path>
+    <root id="archive" name="networkBaoSheng.war">
+      <element id="artifact" artifact-name="BaoShengMES-ChinaNetWork:war exploded" />
+    </root>
+  </artifact>
+</component>
